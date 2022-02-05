@@ -1,0 +1,1 @@
+ON Provincial Route,Clarkson,10,12,Faisal Go,10,25,Nick Go,10,55,Chung Chung Go,11,15,Pajdakov Go,12,0,Broken Jumpshot,12,15,Toronto TTC Station,12,45,Ugoslavia Plaza,13,10,Geometry Go,13,30,Jupiter Stop,14,0,Marija Plaza,14,20,Gianpaulo,14,55,Christmas place,15,45,Cherry Go,16,20,Deluxe Station,17,30,Truxton,18,45

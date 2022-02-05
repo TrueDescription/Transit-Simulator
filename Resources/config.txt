@@ -1,0 +1,49 @@
+*atInjuction is true for stop IFF the stop location is intersecting a station*
+*atInjunction is true for a station IFF the station has at least ONE bus stop*
+
+*Make hasmap, key == name, value == Stop Object*
+Stops:
+Toronto Plaza, F
+Woodchester, F
+Port Credit, F
+Clarkson, T
+Lorne Park, F
+Erin Mills, F
+
+*Make hashmap, key == name, value == Station Object*
+Stations:
+Clarkson, T
+Faisal Go, F
+Nick Go, F
+Chung Chung Go, T
+Pajdakov Go, T
+
+*Make a list of bus routes access bus hashmap*
+Bus Routes:
+Toronto Plaza, Woodchester, Port Credit, Clarkson
+
+Clarkson, Lorne Park, Erin Mills
+
+Pajdakov Go, Chung Chung Go, Tornto Plaza
+
+
+*Make a list of station routes access station hashmap*
+Station Route:
+Clarkson, Faisal Go, Nick Go, Chung Chung Go, Pajdakov Go
+
+*Make a hashmap of card holders, key == name, value == CardHolder OBJ*
+CardHolders:
+Axel Visan, parlefrancais@gmail.com
+Bogdan Simeon, BogMan@CS.com
+Ali Mousavidehshikh, MathMatician@algebra.com
+Tian Yu, Hello@DingDong.com
+Danny BrokenJumpshot, DannyBadBoi@Yessir.com
+
+*Make a hashmap of cards key == name, value == ArrayList<Cards>, using this hashmap update the cardholders*
+Cards:
+Axel Visan, 1, 60
+Axel Visan, 7, 34
+Bogdan Simeon, 2
+Ali Mousavidehshikh, 3
+Tian Yu, 4
+Danny BrokenJumpshot, 5

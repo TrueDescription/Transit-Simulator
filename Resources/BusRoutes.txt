@@ -1,0 +1,6 @@
+Union Route,Toronto Plaza,10,10,Woodchester,10,35,Port Credit,12,00,Clarkson,12,25
+Mississauga Route,Clarkson,12,30,Lorne Park,13,0,Erin Mills,13,15
+Discord Route,Pajdakov Go,11,15,Chung Chung Go,11,45,Toronto Plaza,12,15
+Long Island Route,Clarkson,17,20,Niagara Go,17,30,Cherry Go,18,0,Lion Valley Park,19,35
+Veld Boulevard Route,Truxton,14,30,Lala Go,15,15,University Plaza,16,20
+Winter Wonderland Route,Chung Chung Go,9,10,Jupiter Stop,9,30,Christmas place,9,50,Oakville Union,10,15,Faishalal,11,25

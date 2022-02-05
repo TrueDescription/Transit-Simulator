@@ -1,0 +1,16 @@
+Clarkson,true
+Faisal Go,false
+Nick Go,false
+Chung Chung Go,true
+Pajdakov Go,true
+Broken Jumpshot,false
+Toronto TTC Station,false
+Ugoslavia Plaza,false
+Geometry Go,false
+Jupiter Stop,true
+Marija Plaza,false
+Gianpaulo,false
+Christmas place,true
+Cherry Go,true
+Deluxe Station,false
+Truxton,true

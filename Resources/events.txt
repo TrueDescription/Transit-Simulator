@@ -1,0 +1,16 @@
+tapOn,?Toronto Plaza,1,2020,11,15,10,10,parlefrancais@gmail.com
+tapOff,?Woodchester,1,2020,11,15,10,35,parlefrancais@gmail.com
+tapOn,?Toronto Plaza,12,2020,11,15,10,10,ryan@gmail.com
+tapOff,?Clarkson,12,2020,11,15,12,25,ryan@gmail.com
+tapOn,?Jupiter Stop,25,2020,11,15,9,30,monika.segovia@gmail.com
+tapOff,?Christmas place,25,2020,11,15,9,50,monika.segovia@gmail.com
+tapOn,!Christmas place,25,2020,11,15,15,45,monika.segovia@gmail.com
+tapOff,!Cherry Go,25,2020,11,15,16,20,monika.segovia@gmail.com
+tapOn,?Niagara Go,26,2020,11,15,17,30,Sego2@gmail.com
+tapOff,?Lion Valley Park,26,2020,11,15,19,35,Sego2@gmail.com
+tapOn,!Geometry Go,19,2020,11,15,17,30,katherine.chen@kai.com
+tapOff,!Chung Chung Go,19,2020,11,15,17,45,katherine.chen@kai.com
+tapOn,!Clarkson,26,2020,11,16,10,12,Sego2@gmail.com
+tapOff,!Truxton,26,2020,11,16,18,45,Sego2@gmail.com
+tapOn,?Chung Chung Go,15,2020,11,15,20,20,zachtt@nba.com
+tapOff,?Jupiter Stop,15,2020,11,15,20,20,zachtt@nba.com
